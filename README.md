@@ -1,4 +1,4 @@
-# Teste WiPro Integração com Api Via Cep + Testes com Junit e Cucumber
+# Teste WiPro Integração com Api Via Cep + Testes com Junit5 e Cucumber
 
 - o desafio pedido foi a construção de uma api rest de consulta de endereço e cálculo de frete para um determinado cep.
 
@@ -47,9 +47,22 @@
 - ![alt text](https://github.com/FireXtz/WiProTeste/blob/main/src/main/resources/images/SwaggerApi.png)
 - ![alt text](https://github.com/FireXtz/WiProTeste/blob/main/src/main/resources/images/SwaggerDocumentacao.png)
 
-# Testes Automatizados com Cucumber e Testes Unitários com Junit5
-- Teste automatizando quando o usuário insere um cep valido bem como um cep invalido, caso retorne as condições sitadas será retornado no teste       automatizado.
+# Testes Automatizados com Cucumber + Junit5
+- Teste automatizando em conjunto o Junit5 juntamente com o cucumber quando o usuário insere um cep valido bem como um cep invalido, caso retorne as condições sitadas será retornado no teste automatizado.
 
 - ![alt text](https://github.com/FireXtz/WiProTeste/blob/main/src/main/resources/images/Cucumber1.png)
+
+- ![alt text](https://github.com/FireXtz/WiProTeste/blob/main/src/main/resources/images/Cucumber2.png)
+
+- ![alt text](https://github.com/FireXtz/WiProTeste/blob/main/src/main/resources/images/Cucumber2.png)
+
+- ![alt text](https://github.com/FireXtz/WiProTeste/blob/main/src/main/resources/images/CucumberProperties.png)
+
+- ![alt text](https://github.com/FireXtz/WiProTeste/blob/main/src/main/resources/images/CucumberTeste.png)
+
+- ![alt text](https://github.com/FireXtz/WiProTeste/blob/main/src/main/resources/images/CucumberTesteRunner.png)
+- ![alt text](https://github.com/FireXtz/WiProTeste/blob/main/src/main/resources/images/Junit5.png)
+
+
 
 
