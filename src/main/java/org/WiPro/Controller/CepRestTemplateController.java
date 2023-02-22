@@ -1,9 +1,9 @@
-package org.example.Controller;
+package org.WiPro.Controller;
 
-import org.example.Request.CepRequest;
-import org.example.Response.CepResponse;
-import org.example.Response.ResponseExceptionHandler;
-import org.example.Service.CepRestTemplateService;
+import org.WiPro.Request.CepRequest;
+import org.WiPro.Response.CepResponse;
+import org.WiPro.Response.ResponseExceptionHandler;
+import org.WiPro.Service.CepRestTemplateService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

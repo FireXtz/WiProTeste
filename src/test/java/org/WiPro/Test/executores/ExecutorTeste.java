@@ -1,4 +1,4 @@
-package org.example.Test.executores;
+package org.WiPro.Test.executores;
 
 import cucumber.api.CucumberOptions;
 import cucumber.api.SnippetType;

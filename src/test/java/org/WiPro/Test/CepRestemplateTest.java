@@ -1,9 +1,8 @@
-package org.example.Test;
+package org.WiPro.Test;
 
 import lombok.extern.slf4j.Slf4j;
-import org.example.Request.CepRequest;
-import org.example.Response.CepResponse;
-import org.junit.Assert;
+import org.WiPro.Request.CepRequest;
+import org.WiPro.Response.CepResponse;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.boot.test.context.SpringBootTest;
@@ -13,7 +12,6 @@ import org.springframework.test.context.junit4.SpringRunner;
 import org.springframework.web.client.RestTemplate;
 import java.net.URI;
 import java.net.URISyntaxException;
-import java.util.logging.Logger;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest(webEnvironment= SpringBootTest.WebEnvironment.RANDOM_PORT)

@@ -1,4 +1,4 @@
-package org.example.Test.passos;
+package org.WiPro.Test.passos;
 
 import static io.restassured.RestAssured.get;
 import static org.hamcrest.Matchers.hasSize;
@@ -9,9 +9,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 import cucumber.api.java.en.Then;
-import io.restassured.path.json.JsonPath;
-import io.restassured.specification.RequestSpecification;
-import org.example.Response.CepResponse;
+import org.WiPro.Response.CepResponse;
 import cucumber.api.java.en.Given;
 import cucumber.api.java.en.When;
 import io.restassured.response.Response;

@@ -1,4 +1,4 @@
-package org.example.Configuration;
+package org.WiPro.Configuration;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

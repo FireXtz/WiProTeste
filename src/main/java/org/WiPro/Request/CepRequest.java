@@ -1,4 +1,4 @@
-package org.example.Request;
+package org.WiPro.Request;
 
 import lombok.*;
 @Getter

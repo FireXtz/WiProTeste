@@ -1,8 +1,8 @@
-package org.example.Service;
+package org.WiPro.Service;
 
-import org.example.Feign.CepFeign;
-import org.example.Request.CepRequest;
-import org.example.Response.CepResponse;
+import org.WiPro.Feign.CepFeign;
+import org.WiPro.Request.CepRequest;
+import org.WiPro.Response.CepResponse;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

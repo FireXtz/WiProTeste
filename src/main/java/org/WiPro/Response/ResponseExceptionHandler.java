@@ -1,4 +1,4 @@
-package org.example.Response;
+package org.WiPro.Response;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

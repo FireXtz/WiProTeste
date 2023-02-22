@@ -1,7 +1,7 @@
-package org.example.Service;
+package org.WiPro.Service;
 
-import org.example.Request.CepRequest;
-import org.example.Response.CepResponse;
+import org.WiPro.Request.CepRequest;
+import org.WiPro.Response.CepResponse;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Component;
