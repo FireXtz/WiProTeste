@@ -32,5 +32,19 @@
 
 # Construção da API Imagens:
 
+- Endpoint testado no Postman, usando o RestTemplate e documentado no Swagger apartir desse link Version 1.0.
+- http://localhost:8080/swagger-ui/index.html#/cep-rest-template-controller/pesquisarUsingPOST
+- Endpoint testado no Postman, usando o Feign e documentado no Swagger apartir desse link Version 2.0.
+- http://localhost:8080/swagger-ui/index.html#/cep-rest-template-controller/pesquisarUsingPOST
+
+- POST v1/consulta-endereco usando RestTemplate
+- ![alt text](https://github.com/FireXtz/WiProTeste/blob/main/src/main/resources/images/EnderecoSP.png)
+
+- ![alt text](https://github.com/FireXtz/WiProTeste/blob/main/src/main/resources/images/EnderecoRS.png)
+
+- Documentação Swagger
+
+- ![alt text](https://github.com/FireXtz/WiProTeste/blob/main/src/main/resources/images/SwaggerApi.png)
+- ![alt text](https://github.com/FireXtz/WiProTeste/blob/main/src/main/resources/images/SwaggerDocumentacao.png)
 
 
