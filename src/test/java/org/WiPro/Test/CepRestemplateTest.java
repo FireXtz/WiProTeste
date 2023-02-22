@@ -30,7 +30,7 @@ public class CepRestemplateTest {
         String ViaCepURL = "http://viacep.com.br/ws/"+cepRequest.getCep()+"/json/";
         URI uriViaCep = new URI(ViaCepURL);
         ResponseEntity<CepResponse> result = restTemplate.getForEntity(String.valueOf(uriViaCep), CepResponse.class);
-
+        System.out.println("########### TESTE DE UNIDADE###########");
         System.out.println("cep:"+ result.getBody().getCep());
         System.out.println("rua:"+ result.getBody().getLogradouro());
         System.out.println("complemento:"+ result.getBody().getComplemento());
