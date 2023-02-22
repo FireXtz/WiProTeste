@@ -1,0 +1,19 @@
+[{
+  "cep": "01001-000",
+  "logradouro": "Praça da Sé",
+  "complemento": "lado ímpar",
+  "bairro": "Sé",
+  "localidade": "São Paulo",
+  "uf": "SP"
+},
+  {
+    "cep": "96200-970",
+    "logradouro": "Rua República do Líbano",
+    "complemento": "88 Sala 01 e 02",
+    "bairro": "Centro",
+    "localidade": "Rio Grande",
+    "uf": "RS"
+  }
+
+
+]
