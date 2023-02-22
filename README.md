@@ -47,4 +47,9 @@
 - ![alt text](https://github.com/FireXtz/WiProTeste/blob/main/src/main/resources/images/SwaggerApi.png)
 - ![alt text](https://github.com/FireXtz/WiProTeste/blob/main/src/main/resources/images/SwaggerDocumentacao.png)
 
+# Testes Automatizados com Cucumber e Testes Unitários com Junit5
+- Teste automatizando quando o usuário insere um cep valido bem como um cep invalido, caso retorne as condições sitadas será retornado no teste       automatizado.
+
+- ![alt text](https://github.com/FireXtz/WiProTeste/blob/main/src/main/resources/images/Cucumber1.png)
+
 
